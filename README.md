@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## By Learning this Rich UI you can learn More about flutter User Interfaces
 
 This project is a starting point for a Flutter application.
 
