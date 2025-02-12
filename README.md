@@ -1,4 +1,4 @@
-# mingle
+# Mingle App
 
 A new Flutter project.
 
